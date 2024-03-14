@@ -4,7 +4,7 @@ This is my first freelance project. It is a Porfolio website.
 * For hosting this website I have used Netlify.
 
 ## Live link of my project:
-[Portfolio-Website](https://tanya-getup.netlify.app/)
+[Portfolio-Website](https://tanya-getup.netlify.app/](https://main--tanya-design.netlify.app))
 
  
 ## Find a bug?
